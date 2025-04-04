@@ -1,0 +1,7 @@
+# ninja log v6
+12	584	7654599914227794	CMakeFiles/main.dir/source_files/messages.cpp.obj	213fb53c05a431f
+5	593	7654599914159273	CMakeFiles/main.dir/main.cpp.obj	9ba501eeabd49b31
+20	990	7654599914326708	CMakeFiles/main.dir/source_files/flash.cpp.obj	be2d92c3a51327c3
+991	1355	7654599923937919	main.exe	f4e101817314c5eb
+48	1303	7654600608816822	CMakeFiles/main.dir/source_files/flash.cpp.obj	be2d92c3a51327c3
+1305	1543	7654600621395629	main.exe	f4e101817314c5eb
