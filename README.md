@@ -1,5 +1,8 @@
 # Flash-Drive-Creator-for-linux
 
+> [!WARNING]
+> This is under development and I do not recommend using it.
+
 In this repository I (and you as well!) will work on making a nice minimilistic Flash Drive Creator.
 
 > [!CAUTION]
