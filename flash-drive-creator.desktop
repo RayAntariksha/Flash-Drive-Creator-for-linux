@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Flash Drive Creator
+Comment=Write ISO/IMG files to USB flash drives
+Exec=python3 flash_drive_creator.py
+Terminal=false
+Categories=System;Utility;
